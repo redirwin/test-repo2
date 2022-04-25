@@ -2,4 +2,4 @@
 
 Continuing to practice and test git and github.
 
-Just cloned this repot. 
+Just cloned this repo.
